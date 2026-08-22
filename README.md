@@ -127,3 +127,39 @@ Combining relevant text fields
 
 This helps reduce noise and allows the machine learning model to focus on useful textual patterns.
 
+Example
+Input
+Scientists announce a major breakthrough after years of research...
+Output
+Prediction: REAL NEWS
+
+The model analyzes the provided text and returns the predicted class.
+
+📈 Results
+
+The model's performance should be reported using the evaluation metrics obtained during testing.
+
+Example:
+
+Accuracy : XX.XX%
+Precision: XX.XX%
+Recall   : XX.XX%
+F1 Score : XX.XX%
+
+Replace these values with the actual results from your trained model rather than using placeholder or estimated values.
+
+⚠️ Limitations
+
+Machine learning predictions are not guaranteed to determine whether a news article is factually true.
+
+The model may be affected by:
+
+Biases present in the training dataset
+Unseen topics or writing styles
+Changes in language and news trends
+Satire or opinion-based articles
+Poor-quality or incomplete input
+Dataset distribution
+
+Therefore, predictions should be considered model-based classifications rather than factual verification.
+
