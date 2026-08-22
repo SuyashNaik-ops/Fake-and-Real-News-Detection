@@ -162,4 +162,42 @@ Poor-quality or incomplete input
 Dataset distribution
 
 Therefore, predictions should be considered model-based classifications rather than factual verification.
+🔮 Future Improvements
+
+Possible improvements include:
+
+Experimenting with different machine learning algorithms
+Comparing multiple NLP techniques
+Using advanced transformer-based models
+Adding explainable AI techniques
+Improving the user interface
+Adding confidence scores
+Supporting multiple languages
+Training on larger and more diverse datasets
+Integrating external fact-checking sources
+🎯 Learning Outcomes
+
+Through this project, the following concepts were practiced:
+
+Python programming
+Data preprocessing
+Exploratory data analysis
+Natural Language Processing
+Text vectorization
+TF-IDF
+Supervised machine learning
+Model evaluation
+Classification
+Building an ML-powered application
+👨‍💻 Author
+
+Suyash
+
+BE — Artificial Intelligence & Data Science
+
+⭐ Acknowledgement
+
+This project was developed for educational purposes to explore how Natural Language Processing and machine learning can be applied to text classification.
+
+If you found this project useful, consider giving the repository a ⭐.
 
