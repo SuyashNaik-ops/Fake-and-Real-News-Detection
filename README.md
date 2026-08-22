@@ -95,6 +95,32 @@ Typical preprocessing steps include:
 Converting text to lowercase
 Removing unnecessary characters
 Removing punctuation
+
+🔤 Feature Extraction
+
+Since machine learning algorithms cannot directly understand raw text, the news articles are converted into numerical features.
+
+This project uses TF-IDF (Term Frequency–Inverse Document Frequency) to represent the importance of words within the news articles.
+
+TF-IDF gives higher importance to words that are useful for distinguishing between different documents while reducing the influence of extremely common words.
+
+🤖 Machine Learning Model
+
+The processed text features are used to train a supervised classification model.
+
+The model learns patterns from labeled examples of fake and real news and uses those patterns to classify previously unseen articles.
+
+Evaluation Metrics
+
+The model can be evaluated using:
+
+Accuracy
+Precision
+Recall
+F1-Score
+Confusion Matrix
+
+These metrics provide a better understanding of how well the classifier performs than accuracy alone.
 Removing unnecessary whitespace
 Handling missing values
 Combining relevant text fields
