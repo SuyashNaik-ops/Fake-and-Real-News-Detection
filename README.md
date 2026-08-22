@@ -28,5 +28,37 @@ NumPy — Numerical operations
 Scikit-learn — Machine learning
 NLTK — Natural Language Processing
 TF-IDF — Text feature extraction
-HTML / CSS / JavaScript — Frontend
-Flask — Backend/API (if used)
+
+📂 Project Structure
+Fake-News-Detection/
+│
+├── data/
+│   ├── Fake.csv
+│   └── True.csv
+│
+├── model/
+│   └── model.pkl
+│
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+The exact structure may vary depending on the final implementation.
+
+📊 Dataset
+
+The project uses two datasets:
+
+Fake.csv — contains fake news articles
+True.csv — contains real news articles
+
+Both datasets contain information such as:
+
+Title
+Text
+Subject
+Date
+
+The datasets are combined and labeled before being used for training.
+
