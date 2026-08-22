@@ -61,4 +61,43 @@ Subject
 Date
 
 The datasets are combined and labeled before being used for training.
+The datasets are combined and labeled before being used for training.
+
+Labels
+Label	Meaning
+0	Fake News
+1	Real News
+🔄 Machine Learning Pipeline
+
+The project follows this general workflow:
+
+News Dataset
+     ↓
+Data Cleaning
+     ↓
+Text Preprocessing
+     ↓
+Train/Test Split
+     ↓
+TF-IDF Feature Extraction
+     ↓
+Machine Learning Model
+     ↓
+Model Evaluation
+     ↓
+Fake / Real Prediction
+🧹 Data Preprocessing
+
+The text data is cleaned before training the model.
+
+Typical preprocessing steps include:
+
+Converting text to lowercase
+Removing unnecessary characters
+Removing punctuation
+Removing unnecessary whitespace
+Handling missing values
+Combining relevant text fields
+
+This helps reduce noise and allows the machine learning model to focus on useful textual patterns.
 
