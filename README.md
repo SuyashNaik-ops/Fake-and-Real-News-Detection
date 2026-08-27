@@ -194,7 +194,7 @@ Building an ML-powered application
 Suyash
 
 BE — Artificial Intelligence & Data Science
-
+Graduation year-2028
 ⭐ Acknowledgement
 
 This project was developed for educational purposes to explore how Natural Language Processing and machine learning can be applied to text classification.
