@@ -14,3 +14,20 @@ An NLP-based machine learning project that classifies news articles as Fake or R
 The project uses a dataset containing 44,898 news articles, including 23,481 fake and 21,417 real articles.
 
 The text data is processed and transformed into numerical representations before being used to train and compare different classification models.
+
+🧠 Models Implemented
+SVM with TF-IDF
+ANN with TF-IDF
+ANN with Trainable Embeddings
+Bidirectional LSTM (BiLSTM)
+1D CNN with Embeddings
+Transformer Encoder
+🔧 Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+TensorFlow / Keras
+NLTK
+Matplotlib
+Seaborn
