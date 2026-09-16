@@ -4,6 +4,13 @@ You can exclusively access to the app via this link.
 This is Currently a Live Working Demo Of App.
 It is the basic version of project.
 This is related to ML-Dataset.
+
 📰 Fake News Detection using NLP & Machine Learning
 
 An NLP-based machine learning project that classifies news articles as Fake or Real using text preprocessing, TF-IDF feature extraction, and multiple machine learning/deep learning models.
+
+📌 Project Overview
+
+The project uses a dataset containing 44,898 news articles, including 23,481 fake and 21,417 real articles.
+
+The text data is processed and transformed into numerical representations before being used to train and compare different classification models.
