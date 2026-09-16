@@ -48,3 +48,27 @@ Model Evaluation
      ↓
 Fake / Real Prediction
 Seaborn
+
+📊 Dataset
+
+The dataset contains two CSV files:
+
+data/
+├── Fake.csv
+└── True.csv
+Dataset	Articles
+Fake News	23,481
+Real News	21,417
+Total	44,898
+
+Each file contains:
+
+title
+text
+subject
+date
+
+For classification, the project assigns:
+
+0 → Fake
+1 → Real
