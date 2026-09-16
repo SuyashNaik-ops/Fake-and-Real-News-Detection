@@ -30,4 +30,21 @@ Scikit-learn
 TensorFlow / Keras
 NLTK
 Matplotlib
+
+⚙️ NLP & Machine Learning Pipeline
+News Dataset
+     ↓
+Data Cleaning
+     ↓
+Text Preprocessing
+     ↓
+Title + Article Text
+     ↓
+Feature Representation
+     ↓
+Model Training
+     ↓
+Model Evaluation
+     ↓
+Fake / Real Prediction
 Seaborn
