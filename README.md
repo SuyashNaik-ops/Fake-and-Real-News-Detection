@@ -191,7 +191,7 @@ Classification
 Building an ML-powered application
 👨‍💻 Author
 
-Suyash
+Suyash Naik
 
 BE — Artificial Intelligence & Data Science
 Graduation year-2028
