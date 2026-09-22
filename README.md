@@ -189,9 +189,7 @@ Supervised machine learning
 Model evaluation
 Classification
 Building an ML-powered application
-👨‍💻 Author
-
-Suyash Naik
+👨‍💻 Author:Suyash Naik
 
 BE — Artificial Intelligence & Data Science
 Graduation year-2028
