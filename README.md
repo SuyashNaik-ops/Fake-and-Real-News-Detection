@@ -96,7 +96,7 @@ Converting text to lowercase
 Removing unnecessary characters
 Removing punctuation
 
-🔤 Feature Extraction
+🔤 Feature Extraction:-
 
 Since machine learning algorithms cannot directly understand raw text, the news articles are converted into numerical features.
 
