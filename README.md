@@ -104,7 +104,7 @@ This project uses TF-IDF (Term Frequency–Inverse Document Frequency) to repres
 
 TF-IDF gives higher importance to words that are useful for distinguishing between different documents while reducing the influence of extremely common words.
 
-🤖 Machine Learning Model
+🤖 Machine Learning Model:-
 
 The processed text features are used to train a supervised classification model.
 
