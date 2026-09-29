@@ -162,7 +162,7 @@ Poor-quality or incomplete input
 Dataset distribution
 
 Therefore, predictions should be considered model-based classifications rather than factual verification.
-🔮 Future Improvements
+🔮 Future Improvements:-
 
 Possible improvements include:
 
@@ -177,7 +177,7 @@ Training on larger and more diverse datasets
 Integrating external fact-checking sources
 🎯 Learning Outcomes
 
-Through this project, the following concepts were practiced:
+Through this project, the following concepts were practiced:-
 
 Python programming
 Data preprocessing
