@@ -67,7 +67,7 @@ Labels
 Label	Meaning
 0	Fake News
 1	Real News
-🔄 Machine Learning Pipeline
+🔄 Machine Learning Pipeline:-
 
 The project follows this general workflow:
 
