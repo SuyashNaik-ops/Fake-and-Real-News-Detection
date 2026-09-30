@@ -12,7 +12,7 @@ The project includes data preprocessing, text cleaning, feature extraction, mode
 
 Note: This project is an educational machine-learning classifier. Its predictions should not be treated as definitive proof that a news article is true or false.
 
-✨ Features
+✨ Features:-
 📰 Classifies news articles as Fake or Real
 🧹 Text preprocessing and cleaning
 🔤 Natural Language Processing
