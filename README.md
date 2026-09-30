@@ -139,7 +139,7 @@ The model analyzes the provided text and returns the predicted class.
 
 The model's performance should be reported using the evaluation metrics obtained during testing.
 
-Example:
+Example:-
 
 Accuracy : XX.XX%
 Precision: XX.XX%
