@@ -9,7 +9,7 @@ This is related to ML-Dataset.
 
 An NLP-based machine learning project that classifies news articles as Fake or Real using text preprocessing, TF-IDF feature extraction, and multiple machine learning/deep learning models.
 
-📌 Project Overview
+📌 Project Overview:
 
 The project uses a dataset containing 44,898 news articles, including 23,481 fake and 21,417 real articles.
 
