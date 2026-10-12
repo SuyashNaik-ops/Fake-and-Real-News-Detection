@@ -164,7 +164,7 @@ Dataset distribution
 Therefore, predictions should be considered model-based classifications rather than factual verification.
 🔮 Future Improvements:-
 
-Possible improvements include:
+Possible improvements include:-
 
 Experimenting with different machine learning algorithms
 Comparing multiple NLP techniques
