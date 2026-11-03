@@ -22,7 +22,7 @@ Note: This project is an educational machine-learning classifier. Its prediction
 🖥️ Simple user interface for entering news
 ⚡ Fast prediction after model training
 🛠️ Technologies Used
-Python
+:Python
 Pandas — Data processing
 NumPy — Numerical operations
 Scikit-learn — Machine learning
