@@ -46,7 +46,7 @@ Fake-News-Detection/
 
 The exact structure may vary depending on the final implementation.
 
-📊 Dataset
+📊 Dataset:
 
 The project uses two datasets:
 
