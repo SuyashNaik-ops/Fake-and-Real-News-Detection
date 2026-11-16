@@ -29,7 +29,7 @@ Scikit-learn — Machine learning
 NLTK — Natural Language Processing
 TF-IDF — Text feature extraction
 
-📂 Project Structure
+📂 Project Structure:
 Fake-News-Detection/
 │
 ├── data/
